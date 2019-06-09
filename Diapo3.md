@@ -97,7 +97,7 @@ Créer un ou n pods est s'assure que x pods sont créer
 
 Manifest:
 
-- kin: Job
+- kind: Job
 
 Les containers ne seront pas auto redémarrer
 

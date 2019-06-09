@@ -9,7 +9,7 @@ sysadmin => vue d'ensemble du cluster et des app dessus
 Prometheus: Database chronologique
 
 - Watch de lui même les app
-- use PromQm
+- use PromQl
 - voir graph et alert PromDash
 
 Utiliser kube-prometheus pour monitorer Kub
